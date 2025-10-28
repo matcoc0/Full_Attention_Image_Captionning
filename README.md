@@ -12,9 +12,7 @@ The model combines a **CNN encoder** and an **LSTM decoder** with a **visual att
 The complete implementation, results, and visualizations are available in the HTML report below.
 
 ## Project Report
-
-👉 [Open the full project report (HTML)](./FinalProject_Alaric%20DE%20BASTARD_Mathieu%20COWAN_Adrien%20DE%20MAILLY%20NESLE.html)
-
+Open the html with chrome to see the full report
 This notebook includes:
 - Dataset preprocessing (Flickr8k subset)  
 - CNN–LSTM with Attention architecture  
